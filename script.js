@@ -71,3 +71,7 @@ const handleSearch = _.debounce(function() {
 }, 300);
 
 document.getElementById('search-btn').addEventListener('click', handleSearch);
+
+document.getElementById('genre-input').addEventListener('keydown',function(e){
+    if(e.key == 'Enter') handleSearch();
+});
