@@ -9,7 +9,7 @@ search input. The interface is styled with a dark, library-inspired aesthetic us
 
 ## Demo Video
 
-[Demo Video](LINK HERE)
+[Demo Video](https://www.loom.com/share/c40b6d806f8449bca50d6864b415143e)
 
 ## Development Environment
 
